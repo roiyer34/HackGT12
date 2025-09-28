@@ -15,4 +15,5 @@ export type Game = {
 export type Race = {
   name: string;
   firstPlace: string;
+  flag: string;
 }
